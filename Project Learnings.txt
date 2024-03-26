@@ -1,0 +1,17 @@
+Project Learnings:-
+
+1)Created interactive dashboard to track and analyze online sales data.
+
+2)Used complex parameters to drill down in worksheet and customization using filters and slicers.
+
+3)Created connections, joined new tables, calculations to manipulate data and enable user driven parameters for visualizations.
+
+4)Used different type of customized visualizations(bar chart, pie chart, donut chart, clustered bar chart, scatter chart, line chart, area chart, map, slicers)
+
+Insights:-
+
+Maharashtra, Madhya Pradesh and Uttar Pradesh have the highest amount of sales in the Clothing, Electronics and Furniture categories respectively.
+
+Cash On Delivery(COD) is the most used payment method followed by Unified Payments Interface(UPI) and Debit Card.
+
+Printers, Bookcases and Sarees are the most Profit generating Sub-categories. 
